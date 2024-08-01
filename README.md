@@ -1,2 +1,3 @@
 # Basic-form-method
-HTML CSS PHP ![image](https://github.com/user-attachments/assets/b761845c-0edb-413f-8799-7f78de6b3782)
+HTML CSS PHP ![image](https://github.com/user-attachments/assets/a92a2f7f-1011-411e-b492-32feff20a557)
+
