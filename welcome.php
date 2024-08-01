@@ -5,7 +5,7 @@ ini_set('display_errors', 1);
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $servername = "localhost";
     $username = "root";
-    $password = "@1999";
+    $password = "";
     $dbname = "welcome";
 
     try {
